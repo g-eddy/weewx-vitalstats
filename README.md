@@ -1,4 +1,5 @@
 # weewx-vitalstats
+<pre>
 vitalstats module - xtypes for host's vital stats
 
 provides obs_types:
@@ -16,3 +17,4 @@ configure by adding to xtype_services in weewx.conf i.e.
 vitalstats: ©2020 Graham Eddy <graham.eddy@gmail.com>
 weewx: Copyright (c) 2020 Tom Keffer <tkeffer@gmail.com>
 GPL licenses apply
+</pre>
